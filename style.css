@@ -8,6 +8,20 @@
 		url('fonts/beer_money.svg#beer_money') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
+#textBolt{
+    font-weight: bold;
+}
+
+.newSize{
+    font-size: 25px;
+    font-style: italic;
+}
+
+.newStrong{
+    font-size: 30px;
+    font-style: oblique;
+}
+
 body{
     background-color: aqua;  
 }
